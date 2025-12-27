@@ -1,0 +1,19 @@
+# Node
+node_modules/
+build/
+
+# Environment
+.env
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
+
+# Keys
+*.pem
+
+# OS
+.DS_Store

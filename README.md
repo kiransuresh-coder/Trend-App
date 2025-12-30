@@ -16,20 +16,6 @@ This project demonstrates an **end-to-end containerized application deployment**
 
 ---
 
-## 📁 Project Structure
-
-```
-trend-app/
-├── Dockerfile
-├── deployment.yaml
-├── service.yaml
-├── src/
-├── package.json
-└── README.md
-```
-
----
-
 ## 🐳 Step 1: Dockerize the Application
 
 ### Build Docker Image Locally

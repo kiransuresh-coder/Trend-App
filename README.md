@@ -24,7 +24,7 @@ This project demonstrates an **end-to-end containerized application deployment**
 docker build -t trend-app:v1 .
 ```
 
-### Test Locally (Optional)
+### Test Locally 
 
 ```bash
 docker run -p 3000:3000 trend-app:v1
